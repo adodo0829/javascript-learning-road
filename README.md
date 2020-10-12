@@ -49,7 +49,3 @@
   + 03-miniprogram
 * 20-tensorflow.js
 * 21-js探索
-
-![www.csxiaoyao.com](https://raw.githubusercontent.com/csxiaoyaojianxian/ImageHosting/master/img/sign.jpg)
-**By CS逍遥剑仙**
-[http://www.csxiaoyao.com](http://www.csxiaoyao.com)
